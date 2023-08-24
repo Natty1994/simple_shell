@@ -1,4 +1,4 @@
-#include main.h
+#include "main.h
 
 int_myexit(info_t*info)
 {
